@@ -1,0 +1,10 @@
+c:\users\dimitrios\documents\visual studio 2012\Projects\EtaleExpiriments\WCFServiceManager\WCFServiceObserver\bin\Debug\WCFServiceObserver.exe.config
+c:\users\dimitrios\documents\visual studio 2012\Projects\EtaleExpiriments\WCFServiceManager\WCFServiceObserver\bin\Debug\WCFServiceObserver.exe
+c:\users\dimitrios\documents\visual studio 2012\Projects\EtaleExpiriments\WCFServiceManager\WCFServiceObserver\bin\Debug\WCFServiceObserver.pdb
+c:\users\dimitrios\documents\visual studio 2012\Projects\EtaleExpiriments\WCFServiceManager\WCFServiceObserver\bin\Debug\WCFService.Contracts.dll
+c:\users\dimitrios\documents\visual studio 2012\Projects\EtaleExpiriments\WCFServiceManager\WCFServiceObserver\bin\Debug\WCFServiceManager.exe
+c:\users\dimitrios\documents\visual studio 2012\Projects\EtaleExpiriments\WCFServiceManager\WCFServiceObserver\bin\Debug\WCFService.Contracts.pdb
+c:\users\dimitrios\documents\visual studio 2012\Projects\EtaleExpiriments\WCFServiceManager\WCFServiceObserver\bin\Debug\WCFServiceManager.pdb
+c:\users\dimitrios\documents\visual studio 2012\Projects\EtaleExpiriments\WCFServiceManager\WCFServiceObserver\obj\Debug\WCFServiceObserver.csprojResolveAssemblyReference.cache
+c:\users\dimitrios\documents\visual studio 2012\Projects\EtaleExpiriments\WCFServiceManager\WCFServiceObserver\obj\Debug\WCFServiceObserver.exe
+c:\users\dimitrios\documents\visual studio 2012\Projects\EtaleExpiriments\WCFServiceManager\WCFServiceObserver\obj\Debug\WCFServiceObserver.pdb

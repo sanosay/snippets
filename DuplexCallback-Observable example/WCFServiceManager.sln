@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceManager", "WCFServiceManager\WCFServiceManager.csproj", "{29EB6B78-074B-4DC8-BB4E-D6701B95B509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceObserver", "WCFServiceObserver\WCFServiceObserver.csproj", "{94015068-B14A-45D1-BEF5-4C5E908A95D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFService.Contracts", "WCFService.Contracts\WCFService.Contracts.csproj", "{F04CBD41-2C8B-4E87-ADF9-BD51148AAD9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29EB6B78-074B-4DC8-BB4E-D6701B95B509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EB6B78-074B-4DC8-BB4E-D6701B95B509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EB6B78-074B-4DC8-BB4E-D6701B95B509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EB6B78-074B-4DC8-BB4E-D6701B95B509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94015068-B14A-45D1-BEF5-4C5E908A95D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94015068-B14A-45D1-BEF5-4C5E908A95D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94015068-B14A-45D1-BEF5-4C5E908A95D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94015068-B14A-45D1-BEF5-4C5E908A95D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04CBD41-2C8B-4E87-ADF9-BD51148AAD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04CBD41-2C8B-4E87-ADF9-BD51148AAD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04CBD41-2C8B-4E87-ADF9-BD51148AAD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04CBD41-2C8B-4E87-ADF9-BD51148AAD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

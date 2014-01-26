@@ -1,0 +1,5 @@
+c:\users\dimitrios\documents\visual studio 2012\Projects\EtaleExpiriments\WCFServiceManager\WCFService.Contracts\bin\Debug\WCFService.Contracts.dll
+c:\users\dimitrios\documents\visual studio 2012\Projects\EtaleExpiriments\WCFServiceManager\WCFService.Contracts\bin\Debug\WCFService.Contracts.pdb
+c:\users\dimitrios\documents\visual studio 2012\Projects\EtaleExpiriments\WCFServiceManager\WCFService.Contracts\obj\Debug\WCFService.Contracts.csprojResolveAssemblyReference.cache
+c:\users\dimitrios\documents\visual studio 2012\Projects\EtaleExpiriments\WCFServiceManager\WCFService.Contracts\obj\Debug\WCFService.Contracts.dll
+c:\users\dimitrios\documents\visual studio 2012\Projects\EtaleExpiriments\WCFServiceManager\WCFService.Contracts\obj\Debug\WCFService.Contracts.pdb

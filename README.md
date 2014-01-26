@@ -1,4 +1,9 @@
-snippets-wcf
+Contains personal examples and snippets 
 ============
+## Synopsis
 
-WCF Snippets
+Contains personal examples and snippets
+
+## License
+
+GPLv3
